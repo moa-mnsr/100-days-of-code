@@ -3,7 +3,7 @@
 
 ### Day 1: November 17, Tuesday
 
-**Today's Progress**: began new website in HTML & CSS, completed [GitIt workshop](https://github.com/jlord/git-it-electron) found on [NodeSchool core workshops](https://nodeschool.io/index.html#workshopper-list)
+**Today's Progress**: began new website in HTML & CSS, completed [Git-it workshop](https://github.com/jlord/git-it-electron) found on [NodeSchool core workshops](https://nodeschool.io/index.html#workshopper-list)
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
