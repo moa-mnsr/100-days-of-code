@@ -5,7 +5,7 @@
 
 **Today's Progress**: began new website in HTML & CSS, completed [Git-it workshop](https://github.com/jlord/git-it-electron) found on [NodeSchool core workshops](https://nodeschool.io/index.html#workshopper-list)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was hard to get started on the first day of 100, but the Git-it workshop was super helpful and engaging, and made it especially worthwhile to show up today! Looking forward to more...
 
 **Link(s) to work**
 1. [There Is Only Make](https://romantic-shirley-c6d53a.netlify.app/)
