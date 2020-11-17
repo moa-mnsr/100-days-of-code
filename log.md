@@ -8,5 +8,5 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [There Is Only Make homepage](https://romantic-shirley-c6d53a.netlify.app/)
-2. [Homepage design in Figma](https://www.figma.com/file/Rl5i34TDV38d1gdtHqjYMA/Only-Make?node-id=9%3A2)
+1. [There Is Only Make index](https://romantic-shirley-c6d53a.netlify.app/)
+2. [Landing page design in Figma](https://www.figma.com/file/Rl5i34TDV38d1gdtHqjYMA/Only-Make?node-id=9%3A2)
