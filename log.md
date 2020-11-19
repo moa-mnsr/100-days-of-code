@@ -2,7 +2,7 @@
 
 ### Day 3: November 19, Thursday
 
-**Today's Progress**: continued basic review from yesterday, followed by a long hard lesson in git
+**Today's Progress**: continued html workshop from yesterday to review basics, followed by a long hard lesson in git
 
 **Thoughts** Today the time spent after coding was very frustrating, but I really learned a lot about Git & GitHub after quite a lot of fussing to fix mistakes I didn't know I made yesterday to the working tree. So -- progress! It felt like both an accomplishment and a relief to discover I could ultimately figure it out.
 
