@@ -1,4 +1,27 @@
+
 # 100 Days Of Code - Log
+
+### Day 5: November 23, Monday
+
+**Today's Progress**: made flex-box, tweaked homepage, linked to etherpad
+
+**Thoughts** It was so much fun to collaborate on this today and made me feel very energized for more! Also my friend gave good advice about simplifying the process of working on new things for me. It's really exciting that this website is for a group we made and can actually be used to share information, and am excited for it to grow over time. 
+
+**Link(s) to work**
+1. https://github.com/moa-mnsr/only-make/tree/glitch
+2. https://there-is-only-make.glitch.me/
+
+
+### Day 4: November 22, Sunday
+
+**Today's Progress**: used JavaScript for the first time to make a button, reviewed HTML & CSS with a challenge task on Codepen and by completing more learnyouhtml workshop
+
+**Thoughts** Felt good to make first foray into JavaScript, also enjoyed the immediacy of Codepen a lot. CSS review felt helpful. Feeling ready & eager to start learning JavaScript more steadily now!
+
+**Link(s) to work**
+1. https://codepen.io/moa-mnsr/pen/qBNzegp
+2. https://github.com/moa-mnsr/hello-world
+
 
 ### Day 3: November 19, Thursday
 
