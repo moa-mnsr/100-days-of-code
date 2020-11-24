@@ -3,6 +3,20 @@
 
 ### Day 5: November 23, Monday
 
+**Today's Progress**: worked on poem site involving flexbox & grid; improving understanding of posititioning and alignment of items/text/content within grids especially
+
+**Thoughts** Today felt like a breakthrough on a lot of material I have been trying to grasp a long time! 
+
+It helped that instead of exporting this project directly from Glitch to GitHub, I downloaded the files from Glitch and revised parts of what I already had by rewriting from scratch, with the old files and the new file side by side in Visual Studio Code to compare. I made sure I didn't copy any of the original unless I knew exactly what each part did and meant. This was immensely helpful, and [DevDocs](https://devdocs.io/) was totally invaluable - saved loads of time researching and was a lot cleaner, clearer and easier to use than the resources I have turned to in the past. 
+
+Lastly - I was very happy to be working on my own project of the sort that motivated me to learn code in the first place. Review and exercises are important and sometimes easier on days when I don't have quite the right energy for confronting the immensity of everything I don't know about implementing the designs I've made (which I sometimes compare to composing music for an instrument you haven't really learned yet - like writing a complex cello piece when you can still only play scales...). But putting an art project to life for me is the greatest satisfaction, and makes all the puzzling elements of code much fun to put together.
+
+**Link(s) to work**
+1. https://github.com/moa-mnsr/only-make/tree/glitch
+2. https://there-is-only-make.glitch.me/
+
+### Day 5: November 23, Monday
+
 **Today's Progress**: made flex-box, tweaked homepage, linked to etherpad
 
 **Thoughts** It was so much fun to collaborate on this today and made me feel very energized for more! Also my friend gave good advice about simplifying the process of working on new things for me. It's really exciting that this website is for a group we made and can actually be used to share information, and am excited for it to grow over time. 
