@@ -1,7 +1,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 5: November 23, Monday
+### Day 6: November 24, Tuesday
 
 **Today's Progress**: worked on poem site involving flexbox & grid; improving understanding of posititioning and alignment of items/text/content within grids especially
 
@@ -12,8 +12,8 @@ It helped that instead of exporting this project directly from Glitch to GitHub,
 Lastly - I was very happy to be working on my own project of the sort that motivated me to learn code in the first place. Review and exercises are important and sometimes easier on days when I don't have quite the right energy for confronting the immensity of everything I don't know about implementing the designs I've made (which I sometimes compare to composing music for an instrument you haven't really learned yet - like writing a complex cello piece when you can still only play scales...). But putting an art project to life for me is the greatest satisfaction, and makes all the puzzling elements of code much fun to put together.
 
 **Link(s) to work**
-1. https://github.com/moa-mnsr/only-make/tree/glitch
-2. https://there-is-only-make.glitch.me/
+1. https://iceorange.netlify.app/
+
 
 ### Day 5: November 23, Monday
 
