@@ -1,6 +1,24 @@
 
 # 100 Days Of Code - Log
 
+### Day 8: November 30, Sunday
+
+**Today's Progress**: began Javascripting workshop, practiced tons & tons w/ command line & git on new sites/repos
+
+**Thoughts** I started a lot of web projects I have been talking about today or at least set up the repositories for them. I also realized that the two blogs I wanted to make center around a related theme (if not obviously, at least for me personally) and could be housed together under an umbrella page that explains this. And that connecting them could be its own project, or a more conceptual one.
+
+Otherwise, made progress far and wide...it was good to get my feet a little wetter with JavaScript as I feel I have been avoiding studying it for a while for fear it will be too difficult, or that I am not ready. It felt important to take some more little steps! ...and way less scary than I thought, after all :) 
+
+### Day 7: November 27, Friday
+
+**Today's Progress**: tweaks & collaboration on html in project
+
+**Thoughts**: It was really nice to work with a friend again and we figured out how to communicate our progress in between sessions. I noticed from looking at the site on my phone how badly and naturally I wanted to click the images laid out in the flexbox, and then they would grow bigger, or full-size on the screen. The nicer way to do this would probably be a lightbox but I would like to make sure I understand the JavaScript first before using it (based on an example found on W3 schools).
+
+**Link to work**
+1. https://there-is-only-make.glitch.me/
+
+
 ### Day 6: November 24, Tuesday
 
 **Today's Progress**: worked on poem site involving flexbox & grid; improving understanding of posititioning and alignment of items/text/content within grids especially
