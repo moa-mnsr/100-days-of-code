@@ -12,8 +12,7 @@ Otherwise, made progress far and wide...it was good to get my feet a little wett
 **Links to work**
 1. [Javascripting](https://github.com/moa-mnsr/javascripting)
 2. [Art project umbrella page](https://github.com/moa-mnsr/learnyoufun)
-    & accompanying blogs-to-be: [Simply Sims](https://github.com/moa-mnsr/simply-sims) & [Film Fog]
-    (https://github.com/moa-mnsr/filmfog)
+    & accompanying blogs-to-be: [Simply Sims](https://github.com/moa-mnsr/simply-sims) & [Film Fog](https://github.com/moa-mnsr/filmfog)
 
 ### Day 7: November 27, Friday
 
