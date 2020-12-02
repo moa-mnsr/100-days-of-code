@@ -1,10 +1,20 @@
 
 # 100 Days Of Code - Log
 
-### Day 8: November 30, Sunday
+### Day 9: November 30, Monday
+### Day 10: December 1, Tuesday
+
+**Today (& Yesterday)'s Progress**: worked on There Is Only Make website, first alone & then collaboratively
+
+**Thoughts**: It was nice to work on something two days in a row, and it was also very motivating to work on something for more than just myself, and with another person, no less! Was grateful that my friend also gave me a tutorial of sorts in how to use (Are.na)[are.na] to pursue all sorts of interests and overlap them - and I look forward to doing this with gathering resources for learnings frontend development as well as net art!
+
+**Links to work**
+1. https://there-is-only-make.glitch.me/    
+
+### Day 8: November 29, Sunday
 
 **Today's Progress**: began Javascripting workshop, practiced tons & tons w/ command line & git on new sites/repos
-
+are
 **Thoughts** I started a lot of web projects I have been talking about today or at least set up the repositories for them. I also realized that the two blogs I wanted to make center around a related theme (if not obviously, at least for me personally) and could be housed together under an umbrella page that explains this. And that connecting them could be its own project, or a more conceptual one.
 
 Otherwise, made progress far and wide...it was good to get my feet a little wetter with JavaScript as I feel I have been avoiding studying it for a while for fear it will be too difficult, or that I am not ready. It felt important to take some more little steps! ...and way less scary than I thought, after all :) 
