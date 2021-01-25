@@ -1,6 +1,11 @@
 
 # 100 Days Of Code - Log
 
+### Note on 25 Jan 20201 - 
+
+This project has morphed/moved, since logging work has basically become the purpose of the twitter account that I created to start this challenge! Find me there instead: 
+https://twitter.com/moa_mnsr
+
 ### Day 9: November 30, Monday
 ### Day 10: December 1, Tuesday
 
