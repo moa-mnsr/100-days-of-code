@@ -3,7 +3,9 @@
 
 ### Note on 25 Jan 2021: 
 
-This project has morphed/moved, since logging work has basically become the purpose of the twitter account that I created to start this challenge! Find me there instead: 
+This project has morphed/moved, since logging work has basically become the purpose of the twitter account that I created to start this challenge! 
+
+Find me there instead!
 https://twitter.com/moa_mnsr
 
 ### Day 9: November 30, Monday
